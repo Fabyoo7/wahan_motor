@@ -10,7 +10,7 @@
     <meta name="author" content="mugli">
     <meta name="description" content="Ascent - Kids Kindergarden School HTML Template">
     <!-- ======== Page title ============ -->
-    <title>Ascent - Chindcare & Kids School HTML Template</title>
+    <title>Wahana ritel honda Bandung</title>
     <!--<< Favcion >>-->
     <link rel="shortcut icon" href="{{ asset('frontend/assets/img/faveicon.png')}}">
     <!--<< Bootstrap min.css >>-->
@@ -45,7 +45,7 @@
     </div>
 
     <!-- Offcanvas Area Start -->
-    
+
     <!-- Header Section Start -->
     @include('include.frontend.header')
     <!-- Header Section End -->
@@ -70,9 +70,9 @@
     <!-- Hero Section Start -->
 
     <!-- Talk Counter Section Start -->
-    
+
     <!-- Aboutv1 Section Start -->
-    
+
     <!-- Program Section Start -->
 
     <!-- Protfolio Section Start -->
@@ -80,7 +80,7 @@
     <!-- Service Section Start -->
 
     <!-- Faq Section Start -->
-  
+
     <!-- professional Section Start -->
 
     <!-- Knowledge Section Start -->
@@ -90,7 +90,7 @@
     <!-- Blogv1 Section Start -->
 
     <!--<< Inspair Section Start >>-->
-   
+
     <!--<< Footer Section Start >>-->
     @include('include.frontend.footer')
     <!--<< Footer Section Start >>-->

@@ -6,7 +6,7 @@
                         <div class="single-footer-widget">
                             <div class="widget-heads">
                                 <a href="index.html" class="footer-logo">
-                                    <img src="{{ asset('frontend/assets/img/logo/logo.png')}}" alt="logo-img">
+                                    <img src="{{ asset('frontend/assets/img/logo/wahana.png')}}" alt="logo-img">
                                 </a>
                             </div>
                             <div class="footer-content">

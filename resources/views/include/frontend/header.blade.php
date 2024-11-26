@@ -87,7 +87,7 @@
                     <div class="header-left">
                         <div class="logo">
                             <a href="index.html" class="header-logo">
-                                <img src="{{ asset('frontend/assets/img/logo/logo.png')}}" alt="logo-img">
+                                <img src="{{ asset('frontend/assets/img/logo/wahana.png')}}" alt="logo-img">
                             </a>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                                             <a href="{{ route('faq') }}">FAQ</a>
                                         </li>
                                         <li>
-                                            <a href="#">Tracking</a>
+                                            <a href="{{ route('kontak') }}">Kontak</a>
                                         </li>
                                     </ul>
                                 </nav>

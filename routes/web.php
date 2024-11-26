@@ -22,5 +22,6 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/tentang', [App\Http\Controllers\TentangController::class, 'index'])->name('tentang');
 Route::get('/faq', [App\Http\Controllers\FaqController::class, 'index'])->name('faq');
+Route::get('/kontak', [App\Http\Controllers\KontakController::class, 'index'])->name('kontak');
 
 

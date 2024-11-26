@@ -13,7 +13,7 @@ Version: 1.0.0
   --white: #fff;
   --p1-clr: #0A6375;
   --p2-clr: #F7941E;
-  --p3-clr: #ED145B;
+  --p3-clr: #ff0000;
   --p4-clr: #73BE48;
   --p5-clr: #1CBBB4;
   --cmnbg: #FFF0E5;
@@ -28,7 +28,7 @@ Version: 1.0.0
   --border3: #5262FF;
   --bg: #F4EEE5;
   --bg2: #EFF5F6;
-  --bg3: #70A6B1;
+  --bg3: #EFF5F7;
   --box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.06);
 }
 
